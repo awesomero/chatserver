@@ -13,7 +13,7 @@ cd bin
 ./ChatServer 127.0.0.1 6000
 ./ChatServer 127.0.0.1 6002
 ```
-## 2.客户端
+## 3.客户端
 ```shell
 cd bin
 ./ChatClient 127.0.0.1 8000
